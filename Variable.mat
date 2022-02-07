@@ -1,0 +1,78 @@
+# Created by Octave 5.2.0, Mon Sep 20 18:24:59 2021 SAST <goodwill@goodwill-ThinkCentre>
+# name: X
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0
+
+
+# name: X_OL
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0
+
+
+# name: X_GC
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0
+
+
+# name: tau_system
+# type: scalar
+2
+
+
+# name: T
+# type: scalar
+100
+
+
+# name: int_val
+# type: scalar
+50
+
+
+# name: u
+# type: scalar
+25
+
+
+# name: x0
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0
+
+
+# name: dt_sub
+# type: scalar
+0.0040000000000000001
+
+
+# name: tF
+# type: scalar
+0
+
+
+# name: m
+# type: scalar
+50
+
+
+# name: tau
+# type: scalar
+0.20000000000000001
+
+
+# name: m
+# type: scalar
+50
+
+
